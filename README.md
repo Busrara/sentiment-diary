@@ -16,6 +16,8 @@ This project gives you a tool that processes your daily journal entries, analyze
 3. **Word Cloud Creation**: After sentiment analysis, the emotional words are extracted, and a word cloud is generated.
 4. **Visualization**: The word cloud is displayed and saved as an image file.
 
+Read my Medium writing on this project for further understanding: https://medium.com/@busraracoban/visualizing-your-emotions-building-an-ai-powered-mood-word-cloud-from-your-journal-23f6805cb092 
+
 ## Installation
 
 To use the Emotional Journal Analyzer, make sure you have the following dependencies installed:
